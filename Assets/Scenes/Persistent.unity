@@ -179,9 +179,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Scene:
-  - Intro
+  - IntroLogo
+  - AnimatedTitle
+  - ContentSponsor
+  - Welcome
   - LevelSelect
   - ChildAge
+  - ChildName
 --- !u!114 &287177687
 MonoBehaviour:
   m_ObjectHideFlags: 0

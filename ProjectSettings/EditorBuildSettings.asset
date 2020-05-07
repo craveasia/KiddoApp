@@ -9,7 +9,16 @@ EditorBuildSettings:
     path: Assets/Scenes/Persistent.unity
     guid: 7a28b2486c3f3134e8e2000dab189d68
   - enabled: 1
-    path: Assets/Scenes/Intro.unity
+    path: Assets/Scenes/IntroLogo.unity
+    guid: 26b7c0e657db0bd4bb7d071253c35c1d
+  - enabled: 1
+    path: Assets/Scenes/AnimatedTitle.unity
+    guid: d5c505d3239f1154e88b422234efc374
+  - enabled: 1
+    path: Assets/Scenes/ContentSponsor.unity
+    guid: 88995b4e13d7226499e5698f003c93da
+  - enabled: 1
+    path: Assets/Scenes/Welcome.unity
     guid: f5f99fc00d0ed0d41963656ed1a2730b
   - enabled: 1
     path: Assets/Scenes/LevelSelect.unity
@@ -17,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ChildAge.unity
     guid: 6ee4cc021111be64ea971894d12016fb
+  - enabled: 1
+    path: Assets/Scenes/ChildName.unity
+    guid: 38be70bc0ade4484da4ab4ff1498cf19
   m_configObjects: {}
