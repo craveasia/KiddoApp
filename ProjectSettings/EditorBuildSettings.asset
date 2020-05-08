@@ -38,4 +38,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AvatarAnimation.unity
     guid: 5ddb799d4a0655f47a5beeb331939b25
+  - enabled: 1
+    path: Assets/Scenes/GameArea/Settings.unity
+    guid: b290586ade90b72408d022ea75f198dc
+  - enabled: 1
+    path: Assets/Scenes/GameArea/MainMenuGameplay.unity
+    guid: 033feb454ac5e704ea100a136f2f21f0
+  - enabled: 1
+    path: Assets/Scenes/GameArea/PlayArea.unity
+    guid: 7e116f813e0dd114a8c722e05c8d024a
   m_configObjects: {}

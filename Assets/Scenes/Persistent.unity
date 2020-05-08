@@ -189,6 +189,9 @@ MonoBehaviour:
   - GamesLevelPreparation
   - ParentsEmail
   - AvatarAnimation
+  - Settings
+  - MainMenuGameplay
+  - PlayArea
 --- !u!114 &287177687
 MonoBehaviour:
   m_ObjectHideFlags: 0
