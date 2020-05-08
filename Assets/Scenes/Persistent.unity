@@ -186,6 +186,9 @@ MonoBehaviour:
   - LevelSelect
   - ChildAge
   - ChildName
+  - GamesLevelPreparation
+  - ParentsEmail
+  - AvatarAnimation
 --- !u!114 &287177687
 MonoBehaviour:
   m_ObjectHideFlags: 0
