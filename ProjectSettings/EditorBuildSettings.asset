@@ -29,4 +29,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ChildName.unity
     guid: 38be70bc0ade4484da4ab4ff1498cf19
+  - enabled: 1
+    path: Assets/Scenes/GamesLevelPreparation.unity
+    guid: 07d8660c4a8eb274f844265fd99ccb49
+  - enabled: 1
+    path: Assets/Scenes/ParentsEmail.unity
+    guid: b1ec78524b2cb4e4cafa3297e996601a
+  - enabled: 1
+    path: Assets/Scenes/AvatarAnimation.unity
+    guid: 5ddb799d4a0655f47a5beeb331939b25
   m_configObjects: {}
